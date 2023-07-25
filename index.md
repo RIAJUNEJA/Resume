@@ -13,14 +13,8 @@
 
 **Minor** : Data Science
 
-## Fields of interest:
-- **machine learning** 
-- **artificial intelligence** 
-- **data analytics** 
-- **fintech**
-- **cryptography and network security**
-- **algorithms and data structures** 
-- **data visualization and communication**
+**Fields of interest**:
+machine learning, artificial intelligence, data analytics, fintech, cryptography and network security, algorithms and data structures, data visualization and communication.
 
 In my grade 12 board examinations in the non-medical stream, I secured **first position in Chandigarh** and third position in the Tricity, which has fueled my interest in pursuing a career in **STEM** fields.
 
@@ -133,11 +127,6 @@ In my grade 12 board examinations in the non-medical stream, I secured **first p
 - **Special mention** at Hansraj MUN
 - **Silver medal** in 80m sprints at Sports day
 - **High commendation** at GGSMUN
-- HPS PDC
-- SFHS PDC
-- Udai memorial declamation competition
-- English recitation at Carmel School
-- Encylops Science Competition
 
 ## Social Welfare <a id="sw"></a>
 
