@@ -1,9 +1,13 @@
 
 ## About me <a id="about-me"></a> 
 
+**Name** : Ria Juneja
+
 **E-mail** :  rjuneja@ucsd.edu 
 
 **Website** : www.riajuneja.com
+
+**university** : University of California - San Diego (Junior standing)
 
 **Major** : Math-Computer Science
 
