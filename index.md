@@ -7,7 +7,7 @@
 
 **Website** : www.riajuneja.com
 
-**university** : University of California - San Diego (Junior standing)
+**University** : University of California - San Diego (Junior standing)
 
 **Major** : Math-Computer Science
 
