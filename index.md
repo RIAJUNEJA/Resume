@@ -1,5 +1,3 @@
-# Ria Juneja's Resume #
-
 
 ## About me <a id="about-me"></a> 
 
