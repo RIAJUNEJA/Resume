@@ -14,7 +14,19 @@
 **Minor** : Data Science
 
 **Fields of interest**:
-machine learning, artificial intelligence, data analytics, fintech, cryptography and network security, algorithms and data structures, linear programming, data visualization and communication.
+- machine learning,
+  
+- artificial intelligence,
+
+- data analytics, fintech,
+  
+- cryptography and network security,
+  
+- algorithms and data structures,
+  
+- linear programming,
+  
+- data visualization and communication.
 
 In my grade 12 board examinations in the science stream, I secured **first position in my city, Chandigarh**, which has fueled my interest in pursuing a career in **STEM** fields.
 
