@@ -14,9 +14,9 @@
 **Minor** : Data Science
 
 **Fields of interest**:
-machine learning, artificial intelligence, data analytics, fintech, cryptography and network security, algorithms and data structures, data visualization and communication.
+machine learning, artificial intelligence, data analytics, fintech, cryptography and network security, algorithms and data structures, linear programming, data visualization and communication.
 
-In my grade 12 board examinations in the non-medical stream, I secured **first position in Chandigarh** and third position in the Tricity, which has fueled my interest in pursuing a career in **STEM** fields.
+In my grade 12 board examinations in the science stream, I secured **first position in my city, Chandigarh**, which has fueled my interest in pursuing a career in **STEM** fields.
 
 
 ## Professional Experience <a id="prof"></a>
@@ -41,33 +41,36 @@ Increased customer engagement through social media.
 
 ### Great British Bake off ,
 ### Exploring COVID-19 Data
-> DSC 10
+> DSC 10 - Principles of Data Science
 
 ### Data Analysis Project: San Diego Police Stop Data
-> DSC 96
+> DSC 96 - Workshop in Data Science
 
 ### Text Processing Project
-> DSC 96
+> DSC 96 - Workshop in Data Science
 
 ### Audio Project
-> DSC 96
+> DSC 96 - Workshop in Data Science
 
 ### Sleep Analysis Project
-> DSC 96
+> DSC 96 - Workshop in Data Science
 
 
 ## Java
 
-I have done 16+ other basic projects in Java for my CSE 11 and 12. 
+I have done 16+ other basic projects in Java for my CSE 11 **(Programming and Computational Problem-Solving: Accelerated Pace)** and 12 **(Data Structures and Object-Oriented Design)**. 
 
 ## C
 
-I have done 4 projects in C in my CSE 30 course
+I have done 4 projects in C in my CSE 30 course **(Computer Organization and Systems Programming)**.
 
 ## ARM
 
-I have done 4 projects in Assembly/ARM in my CSE 30 course
+I have done 4 projects in Assembly/ARM in my CSE 30 course **(Computer Organization and Systems Programming)**.
 
+## Github
+
+Additionally, I have done 8 projects on GitHub in my CSE 15L course **(Software Tools and Techniques Laboratory)**.
 
 ## Certifications <a id="certfifications"></a>
 
@@ -103,34 +106,34 @@ I have done 4 projects in Assembly/ARM in my CSE 30 course
 - **Advisor to the Director** 
 - **House prefect**
 - **House captain**
-- **Chief of Staff, MUN**
-- **Head of Department, MUN**
-- **Official, MUN** 
+- **Chief of Staff, Model United Nations**
+- **Head of Department,  Model United Nations**
+- **Official,  Model United Nations** 
 - **Tritons Community Programming Leader**
 - **Mentor at UCSD**
 
 ## Academic Awards <a id="awards"></a>
 
 **CLASS XII(2020-21)**
-In my grade 12 board examinations in the non-medical stream, I secured **first position in Chandigarh** and third position in the Tricity.
+In my grade 12 board examinations in the science stream, I secured **first position in my city, Chandigarh**.
 
 ## Extra Curriculars <a id="EC"></a>
 
-- **Special mention** at SFHSMUN
-- **Special mention** at RISCMUN
-- **Special mention** at GGSMUN
-- **Best Speaker**, Best team in inter school extempore competition at St Xavier's School.
+- **Special mention** at Strawberry Fields High School Model United Nations
+- **Special mention** at Ryan International School Model United Nations
+- **Special mention** at Gurukul Global School Model United Nations
+- **Best Speaker**, Best team in inter-school extempore competition at St Xavier's School.
 - **Runners up** in Shiladhar Hindi Recitation competition.
 - **Runners up** in Rhapsodia English Recitation competition.
-- **Reporter** in International Press at SFHSMUN
-- **Semi finals** at BVP PDC
-- **Special mention** at Hansraj MUN
+- **Reporter** in International Press at Strawberry Fields High School Model United Nations
+- **Semi finals** at Bhavan Vidyalaya Panchkula Parliamentary Debate Competition
+- **Special mention** at Hansraj Model United Nations
 - **Silver medal** in 80m sprints at Sports day
-- **High commendation** at GGSMUN
+- **High commendation** at Gurukul Global School Model United Nations
 
 ## Social Welfare <a id="sw"></a>
 
-- Volunteered at AIESEC
+- Volunteered at AIESEC (Association internationale des étudiants en sciences économiques et commerciales).
 - Volunteered to teach underprivileged kids at a government school - "Hamari Kaksha".
 - Avid dog welfare promoter.
 - Volunteered at a children's hospital in Chandigarh.
